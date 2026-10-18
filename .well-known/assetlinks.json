@@ -1,0 +1,26 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.mahmoudsultan908.mandob",
+      "sha256_cert_fingerprints": [
+        "F4:59:2C:2C:C9:91:61:C4:9C:47:A5:79:B2:25:86:56:42:3B:D4:E7:6C:0E:AA:9B:8B:04:2F:E9:0F:C0:F2:05"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.mahmoudsultan908.sultanoo",
+      "sha256_cert_fingerprints": [
+        "F4:59:2C:2C:C9:91:61:C4:9C:47:A5:79:B2:25:86:56:42:3B:D4:E7:6C:0E:AA:9B:8B:04:2F:E9:0F:C0:F2:05"
+      ]
+    }
+  }
+]
