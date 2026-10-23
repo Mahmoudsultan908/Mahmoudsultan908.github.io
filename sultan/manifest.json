@@ -1,0 +1,17 @@
+{
+  "name": "سلطان — البرنامج",
+  "short_name": "سلطان",
+  "description": "برنامج الحسابات والمخزون والمبيعات — نفس البرنامج اللي على الكمبيوتر",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#131f3c",
+  "theme_color": "#131f3c",
+  "lang": "ar",
+  "dir": "rtl",
+  "categories": ["business", "finance", "productivity"],
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
